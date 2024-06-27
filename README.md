@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://scan-flash-md.onrender.com) OR [`QR SCANNER 2`](https://king-france.vercel.app) OR [`PAIRING CODE 2`](https://flash-sessions.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://scan-flash-md-ik5n.onrender.com) OR [`PAIRING CODE`](https://the-flash-md-sessions.onrender.com/pair)***
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -80,9 +80,8 @@ OR
 
 ***
 ### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds & Ideas.
+- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds from his bot & Ideas.
 - [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Brotherhood. 
 - [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption. 
 - [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
